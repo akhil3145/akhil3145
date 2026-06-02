@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 I’m a 3rd-year Computer Science student (AI & Data Science)<br>🌱 Currently learning Data Structures & Algorithms + Machine Learning<br>💻 Exploring backend development and system design<br>🚀 Building projects to strengthen real-world problem solving<br>💬 Ask me about DSA, C/C++, Python, and basic AI/ML<br>⚡ Fun fact: I treat coding like gym — consistency > motivation
+💫 About Me:<br>🔭 I’m a 3rd-year Computer Science student (AI & Data Science)<br>🌱 Currently learning Data Structures & Algorithms + Machine Learning<br>💻 Exploring backend development and system design<br>🚀 Building projects to strengthen real-world problem solving<br>💬 DSA, C/C++, Python, and basic AI/ML<br>
 
 
 ## 🌐 Socials:
