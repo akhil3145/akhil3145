@@ -65,15 +65,14 @@ Git • GitHub • Docker • VS Code
 
 ### 🌱 Currently Learning
 
-* System Design
+
 * Advanced Machine Learning
 * Generative AI Applications
-* Cloud & Deployment
+*  Deployment
 
 ### 📫 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/akhil3145
 
-GitHub: https://github.com/akhil3145
 
 Email: [akhilpandey1000@gmail.com](mailto:akhilpandey1000@gmail.com)
